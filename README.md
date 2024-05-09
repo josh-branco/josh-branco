@@ -2,7 +2,7 @@
 - 👀 I’m interested in personal knowledge management and web development.
 - 🌱 I’m currently learning tiddlywiki.
 - 💞️ I’m looking to collaborate on NOTHING :)
-- 📫 How to reach me @joshbranco@mastodon.social
+- 📫 How to reach me @joshbranco on mastodon.social.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not a fun person!
 
